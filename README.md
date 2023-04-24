@@ -1,5 +1,5 @@
 <html>
-  <h1>Análise de Dados - Processo Seletivo </h1>
+  <h1>Análise de Dados - Processo Seletivo <h1>
 
   <h2>Configuração do Ambiente </h2>
   <p>Para utilizar o projeto, é necessário criar e ativar um ambiente virtual Python (venv). Siga os passos abaixo:</p>
@@ -28,6 +28,7 @@ Passo 4: Executar o Projeto
 <p>- Com o ambiente virtual ativado e as dependências instaladas, você está pronto para executar o projeto. Só falta alguns detalhes como executar o projeto, incluindo os comandos e configurações necessárias.</p>
 </li>
 </ul>
+
 <h3>Para que o programa possa rodar, abra o terminal e execute a seguinte linha de comando:</h3>
 <p>python main.py</p>
   
