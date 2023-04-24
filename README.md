@@ -28,4 +28,8 @@ Passo 4: Executar o Projeto
 <p>- Com o ambiente virtual ativado e as dependências instaladas, você está pronto para executar o projeto. Só falta alguns detalhes como executar o projeto, incluindo os comandos e configurações necessárias.</p>
 </li>
 </ul>
+<h3>Para que o programa possa rodar, abra o terminal e execute a seguinte linha de comando:</h3>
+<p>python main.py</p>
+  
+</html>
 
