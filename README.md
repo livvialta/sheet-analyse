@@ -17,7 +17,7 @@
   <br>
 <li>
   Passo 3: Instalar Dependências
-   Com o ambiente virtual ativado, instale as dependências do projeto. Você pode usar o gerenciador de pacotes pip para isso. Exemplo:
+  <p>Com o ambiente virtual ativado, instale as dependências do projeto. Você pode usar o gerenciador de pacotes pip para isso. Exemplo:</p>
   <p> pip install -r requirements.txt</p>
 </li>
 <br>
