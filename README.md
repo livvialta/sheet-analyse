@@ -12,9 +12,7 @@
     <p>OBS: Substitua "nome_do_ambiente" pelo nome que deseja dar ao seu ambiente virtual.</p>
     <p>2. Ativar o Ambiente Virtual</p>
     <p>Após criar o ambiente virtual, é necessário ativá-lo. No Windows, utilize o comando abaixo:</p>
-      <p> nome_do_ambiente\Scripts\activate</p>
-    <p>No Linux ou macOS, utilize o comando abaixo:</p>
-      <p> source nome_do_ambiente/bin/activate</p>
+      <p> nome_do_ambiente\Scripts\activate.bat</p>
   </li>
   <br>
 <li>
